@@ -8,7 +8,7 @@ used_passwords.clear()
 
 
 # Script config here
-characters_to_use = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+characters_to_use = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZабвгдеёжзийклмнопрстуфхцчшщъыьэюяАБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ0123456789"
 input_file_path = "/input/file/path"  # Which file to brute-force
 output_file_path = "/output/file/path"  # Where extracted content should be outputted
 password_length = 1  # Set the minimal/start length to the password
